@@ -1,7 +1,5 @@
 ![TRUST logo](trust-lab-logo.png)
 
-Research group focused on Formal Methods, Programming Languages, and	Software Development
-
 # People
 
 - [Nadeem Abdul Hamid](https://cs.berry.edu/~nhamid), Associate Professor
