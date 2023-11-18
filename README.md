@@ -10,7 +10,10 @@
 
 # Projects
 
+- Formal verification of KNN-search-based classification algorithm
+- Automated reasoning for the permutation relation on lists
 
 # Publications
 
+- Nadeem Abdul Hamid. (Nearest) Neighbors You Can Rely On: Formally Verified 𝑘-d Tree Construction and Search in Coq. *To appear in SAC SVT 2024.* [Coq developments](https://github.com/nadeemabdulhamid/knn-search-coq)
 
