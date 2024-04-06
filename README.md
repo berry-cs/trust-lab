@@ -15,5 +15,5 @@
 
 # Publications
 
-- Nadeem Abdul Hamid. (Nearest) Neighbors You Can Rely On: Formally Verified 𝑘-d Tree Construction and Search in Coq. *To appear in SAC SVT 2024.* [Coq developments](https://github.com/nadeemabdulhamid/knn-search-coq)
+- Nadeem Abdul Hamid. (Nearest) Neighbors You Can Rely On: Formally Verified 𝑘-d Tree Construction and Search in Coq. *To appear in SAC SVT 2024.* [Coq developments](https://github.com/nadeemabdulhamid/knn-search-coq) [arxiv preprint](https://arxiv.org/abs/2311.10965) [slides](present/sac2024-talk-slides.pdf)
 
