@@ -18,5 +18,6 @@
 
 # Publications
 
-- Nadeem Abdul Hamid. 2024. (Nearest) Neighbors You Can Rely On: Formally Verified k-d Tree Construction and Search in Coq. In *Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing (SAC '24)* [Software Verification and Testing (SVT) track]. https://doi.org/10.1145/3605098.3635960 [Coq developments](https://github.com/nadeemabdulhamid/knn-search-coq) [arxiv preprint](https://arxiv.org/abs/2311.10965) [slides](present/sac2024-talk-slides.pdf)
+- Bernny Velasquez, Jessica Herring, and Nadeem Abdul Hamid. Formally Verified Implementation of the K-Nearest Neighbors Classification Algorithm. *in submission*
+- Nadeem Abdul Hamid. 2024. [(Nearest) Neighbors You Can Rely On: Formally Verified k-d Tree Construction and Search in Coq](https://doi.org/10.1145/3605098.3635960). In *Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing (SAC '24)* [Software Verification and Testing (SVT) track].  [Coq developments](https://github.com/nadeemabdulhamid/knn-search-coq) [arxiv preprint](https://arxiv.org/abs/2311.10965) [slides](present/sac2024-talk-slides.pdf)
 
