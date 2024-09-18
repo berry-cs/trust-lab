@@ -4,7 +4,7 @@
 
 ### Current
 - [Nadeem Abdul Hamid](https://cs.berry.edu/~nhamid), Associate Professor
-- Great Abhieyighand
+- Great Abhieyighan
 - Savannah Laudicina
 - Dawson Sherwood
 - [Bernny Velasquez](https://www.linkedin.com/in/bernny-velasquez-062a86244/), Undergraduate Research Assistant
