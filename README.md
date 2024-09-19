@@ -5,9 +5,9 @@
 ### Current
 - [Nadeem Abdul Hamid](https://cs.berry.edu/~nhamid), Associate Professor
 - [Great Abhieyighan](https://www.linkedin.com/in/great-abhieyighan-5a02bb295/), Undergraduate Research Assistant
-- [Savannah Laudicina](https://www.linkedin.com/in/savannah-laudicina-321b29297/), Undergraduate Research Assistant
+- [Savannah Laudicina](https://www.linkedin.com/in/savannah-laudicina-321b29297/), Undergraduate Research Associate
 - Dawson Sherwood, Undergraduate Research Assistant
-- [Bernny Velasquez](https://www.linkedin.com/in/bernny-velasquez-062a86244/), Undergraduate Research Assistant
+- [Bernny Velasquez](https://www.linkedin.com/in/bernny-velasquez-062a86244/), Lead Undergraduate Research Associate
 - [Bella Vos](https://www.linkedin.com/in/vos323/), Undergraduate Research Assistant
 
 ### Alumni
