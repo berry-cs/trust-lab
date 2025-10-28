@@ -4,15 +4,16 @@
 
 ### Current
 - [Nadeem Abdul Hamid](https://cs.berry.edu/~nhamid), Associate Professor
-- [Great Abhieyighan](https://www.linkedin.com/in/great-abhieyighan-5a02bb295/), Undergraduate Research Assistant
+- Emily Bishop, Undergraduate Research Associate
 - [Savannah Laudicina](https://www.linkedin.com/in/savannah-laudicina-321b29297/), Undergraduate Research Associate
-- Dawson Sherwood, Undergraduate Research Assistant
-- [Bernny Velasquez](https://www.linkedin.com/in/bernny-velasquez-062a86244/), Lead Undergraduate Research Associate
-- [Bella Vos](https://www.linkedin.com/in/vos323/), Undergraduate Research Assistant
+- [Dawson Sherwood](https://www.linkedin.com/in/dawson-sherwood-82ab88338/), Undergraduate Research Assistant
 
-### Alumni
+### Former/Alumni
+- [Great Abhieyighan](https://www.linkedin.com/in/great-abhieyighan-5a02bb295/), Undergraduate Research Assistant
 - [Matthew Bowker](https://www.linkedin.com/in/matthew-bowker-283ab7221/), Undergraduate Research Assistant
 - [Jessica Herring](https://www.linkedin.com/in/jessica-g-herring/), Undergraduate Research Assistant
+- [Bernny Velasquez](https://www.linkedin.com/in/bernny-velasquez-062a86244/), Lead Undergraduate Research Associate
+- [Bella Vos](https://www.linkedin.com/in/vos323/), Undergraduate Research Assistant
 
 
 # Projects
